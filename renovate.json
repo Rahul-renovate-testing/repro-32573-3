@@ -1,4 +1,4 @@
 {
-  "schedule": ["* 12 24 11 7"],
+  "schedule": ["* 13 24 11 7"],
   "timezone": "Asia/Tokyo"
 }
